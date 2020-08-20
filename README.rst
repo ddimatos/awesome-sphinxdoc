@@ -35,6 +35,7 @@ Sphinx
 | Docs: https://docs.python.org/devguide/documenting.html#sections
 | Docs: http://sphinx-doc.org/markup/index.html
 | Docs: http://sphinx-doc.org/glossary.html
+| Docs: https://sphinx-themes.org/
 
 
 Articles & Presentations
